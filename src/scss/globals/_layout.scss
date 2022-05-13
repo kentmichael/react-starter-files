@@ -1,0 +1,6 @@
+@use "../utils/" as *;
+
+.container {
+  max-width: rem(1080);
+  margin-inline: auto;
+}
